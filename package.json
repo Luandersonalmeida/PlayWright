@@ -27,5 +27,8 @@
   "homepage": "https://github.com/Luandersonalmeida/PlayWright#readme",
   "devDependencies": {
     "playwright": "^1.28.0"
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
   }
 }
